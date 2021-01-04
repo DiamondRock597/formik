@@ -22,3 +22,6 @@ website/i18n
 !website2/yarn.lock
 
 .vercel
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
